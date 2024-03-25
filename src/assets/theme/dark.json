@@ -1,0 +1,29 @@
+{
+    "background": "#12111A",
+    "text": {
+        "primary": "#FFFFFF",
+        "secondary": "#D0CFD1",
+        "gradient": [
+            "#523FD7",
+            "#FF7DFF"
+        ]
+    },
+    "border": {
+        "primary": "#3A3940",
+        "secondary": "#616066",
+        "tertiary": "#FF7DFF"
+    },
+    "button": {
+        "primary": "#523FD7",
+        "secondary": "#FFFFFF",
+        "tertiary": "#09090D"
+    },
+    "slider": {
+        "primary": "#3A3940",
+        "bubbleBG": "#523FD7"
+    },
+    "dropdown": {
+        "primary": "#1E1D25",
+        "secondary": "rgba(58, 57, 64, 0.5)"
+    }
+}

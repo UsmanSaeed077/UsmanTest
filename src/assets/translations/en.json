@@ -1,0 +1,20 @@
+{
+    "ContentType": {
+        "mediaManagement": "Media management",
+        "draftCompaign": "Draft campaign",
+        "contentType": "Content type",
+        "contentsThatBestFit": "Choose a content type that best fits your needs.",
+        "fun": "Fun",
+        "education": "Education",
+        "sports": "Sports",
+        "news": "News",
+        "investment": "Investment",
+        "facts": "Facts",
+        "whichTypeOf": "Which type of",
+        "contentRUCreating": "content are you creating?",
+        "select": "Select",
+        "setNumOfOutputText": "Set the number of words for output text.",
+        "next": "Next",
+        "search": "Search"
+    }
+}
