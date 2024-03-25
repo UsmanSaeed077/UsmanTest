@@ -31,6 +31,7 @@ const ContentType = () => {
             <KeyboardAwareScrollView
                 contentContainerStyle={styles.scrollContainer}
                 showsVerticalScrollIndicator={false}
+                keyboardShouldPersistTaps="handled"
             >
 
                 {/* stepper container using image*/}
